@@ -1,0 +1,4 @@
+.venv/
+.env
+__pycache__/
+Finance-Inbox-Backup-02-Sept/
